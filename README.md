@@ -1,32 +1,31 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# TextToSpeech 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: LOOP
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Parvathy S Pillai - College of engineering munnar
+- Member 2: Adithya Raj - College of engineering munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+it converts text to some name
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The inability of the deaf people to see the text messages made us think through this project.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A given text will be then converted to an automated generated voice message
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- HTML, CSS
+- vanillajs
+- vanillajs
 - [Tools used]
 
 For Hardware:
@@ -47,10 +46,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot 2024-11-03 080937](https://github.com/user-attachments/assets/deb37156-6e9e-4b91-a6dd-907d1b17949c)
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+![Screenshot 2024-11-03 075746](https://github.com/user-attachments/assets/fc6257c1-20f1-4bc0-a385-b7ebed2b4f81)
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -87,9 +89,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Parvathy S Pillai: designed and developed the website
+- Adithya Raj: designed and developed the website
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
